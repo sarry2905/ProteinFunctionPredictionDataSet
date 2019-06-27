@@ -8,4 +8,3 @@ Supplementary Dataset 2: feature vectors extracted from reviewed proteins (75% o
 Supplementary Dataset 3: Test Dataset 1 with feature vectors extracted from reviewed proteins (25% of 1,71,212 reviewed proteins) 9 Bacterial phyla. 
 
 Datasets are in TSV/Excel format all zipped individually.
-
